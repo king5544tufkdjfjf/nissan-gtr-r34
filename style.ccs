@@ -1,0 +1,83 @@
+header {
+   background: linear-gradient(to bottom right,DarkViolet, orange,DarkViolet,orange,DarkViolet);
+   border-radius: 90px;
+   margin: 0px;
+}
+body{
+    background: linear-gradient(to bottom right,DarkViolet, orange,DarkViolet,orange,DarkViolet);
+}
+footer{
+
+    background: linear-gradient(to bottom right,DarkViolet, orange,DarkViolet,orange,DarkViolet);
+       border-radius: 10px;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    margin: 5px;
+    padding: 0px;
+}
+
+main {
+    background: linear-gradient(to bottom right,DarkViolet, orange,DarkViolet,orange,DarkViolet);
+    
+}
+footer h3 {
+    margin: 50px ;   
+}
+h2 {background: linear-gradient(to bottom right,DarkViolet, orange,DarkViolet,orange,DarkViolet);
+  
+}
+h3{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+h5{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+h6{
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+    font-size: 50px
+}
+
+footer p {
+    text-align: center;
+}
+
+.hjr{
+    background: linear-gradient(blue, red)
+}
+.hj{
+    background: linear-gradient(red, blue)
+}
+.hr{
+    background: linear-gradient(blue, red)
+}
+.hji{
+    background: linear-gradient(red, blue)
+}
